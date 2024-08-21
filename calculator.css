@@ -1,0 +1,56 @@
+.display{
+    width: 325px;
+    height: 140px;
+    /* background-color:bisque ; */
+    padding-top: 2rem;
+    border-radius: 10px;
+    text-align: end;
+    color: aliceblue;
+    font-size: 3rem;
+    margin-bottom: 3ren;
+}
+section{
+    background-color: #282828;
+    width: 400px;
+    height: 650px;
+   padding-left: 0;
+   margin-left: 26rem;
+   border-radius: 10px;
+}
+.all_btn{
+    margin-top: 3rem;
+    margin-left:4rem;
+}
+button{
+    padding: 1.5rem 1.5rem;
+    margin-bottom: 0.5rem;
+    margin-right: 0.5rem;
+    border-radius: 50%;
+    border: none;
+}
+.equal{
+    padding-bottom: 7rem;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(238, 185, 71);
+
+}
+.last{
+    margin-top: -5rem;
+}
+.zero{
+    padding-right: 6rem;
+    text-align: center;
+    border-radius: 10px;
+}
+.minus{
+background-color: rgb(238, 185, 71);
+}
+.plus{
+    background-color: rgb(238, 185, 71);
+
+}
+.x{
+    background-color: rgb(238, 185, 71);
+
+}
